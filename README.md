@@ -2,11 +2,7 @@
 
 • This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
-• The back-end of this application was implemented with Java / Spring Framework.
-
-• MySQL database used through JDBC.
-
-• The front-end of the application can be found on the below link.
+• The back-end of the application can be found on the below link.
 
 https://github.com/adamkoksal/BankAppBE-Version1-Spring
 
